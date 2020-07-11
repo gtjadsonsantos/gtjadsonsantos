@@ -15,7 +15,7 @@ Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreen
 
 
 
-* 🎓 Graduação em Analise e Desenolvimento de Sistemas
+* 🎓 Graduação em Analise e Desenvolvimento de Sistemas
 * 🎓 Graduação em Gestão da Tecnologia da informação
 * ✨ Em amores com JavaScript
 * 💙 Techs: React, ReactNative, Node, TypeScript...
