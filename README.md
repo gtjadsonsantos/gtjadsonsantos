@@ -11,7 +11,7 @@ Meu nome é Jadson, sou Desenvolvedor Fullstack há quase 1 ano, dedico parte do
 
 Comecei a estudar desenvolvimento no primeiro semestre de TGTI em fevereiro/2018, consegui meu primeiro estágio no segundo ano de curso em 2019 como **estagiário de tecnologia** com foco em suporte. No ano seguinte outro estágio como **estagiário de tecnologia**, porém sem focó principal e sim trabalhar com todas as camadas da tecnologia, é meu trabalho atual.
 
-Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreendimentos comerciais 🤓. Envolveu o uso node, jwt, knex e react.
+Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreendimentos comerciais 🤓. A mesma se encontra [PAINEL](https://github.com/jadson179/PAINEL) .Envolveu o uso node, jwt, knex e react.
 
 
 
