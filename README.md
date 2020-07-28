@@ -5,6 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jadson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jadson-santos-a9aa9b145/)](https://www.linkedin.com/in/jadson-santos-a9aa9b145/) 
 [![Gmail Badge](https://img.shields.io/badge/-mailto:jadson44.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadson44.santos@gmail.com)](mailto:jadson44.santos@gmail.com)  
 
+🤓 Estagiário na [@unisec](https://github.com/unisec/) <br>
+🇧🇷 Nascido em BA/Serrinha, Brazil <br>
+🇧🇷 Mora em Florianópolis, Santa Catarina
+
 ## Heeey Ninja, tudo bem ? 👋 
 
 Meu nome é Jadson, sou Desenvolvedor Fullstack há quase 1 ano, dedico parte do meu tempo em aprender tecnologias novas e desenvolver projetos com as que já tenho maturidade para desenvolver um produto.
@@ -21,3 +25,5 @@ Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreen
 * 💙 Techs: React, ReactNative, Node, TypeScript...
 * 💪 Atualmente estudando Java
 * 😍 Além disso UI Designer
+
+
