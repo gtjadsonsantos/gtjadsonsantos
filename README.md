@@ -23,7 +23,7 @@ Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreen
 * 🎓 Graduação em Gestão da Tecnologia da informação
 * ✨ Em amores com JavaScript
 * 💙 Techs: React, ReactNative, Node, TypeScript...
-* 💪 Atualmente estudando Java
+* 💪 Atualmente estudando TypeScript
 * 😍 Além disso UI Designer
 
 
