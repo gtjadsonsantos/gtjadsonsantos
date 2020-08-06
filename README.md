@@ -24,7 +24,7 @@ Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreen
 * ✨ Em amores com JavaScript
 * 💪 Atualmente estudando TypeScript
 * 😍 Além disso UI Designer
-* 💙 JavaScript,TypeScript,Node,Java, SQL, Docker,Git,Bash,Python,Mysql,SSH,SCP,Linux
+* 💙 JavaScript,TypeScript,Node,Java,SQL,Docker,Git,Bash,Python,Mysql,SSH,SCP,Linux,CSS,HTML
 * 🌟 React, ReactNative, Styled Components,Expo,Knex,Express
 * 🛡 MVC
 * 🛠 Orientado a Objetos e funcional
