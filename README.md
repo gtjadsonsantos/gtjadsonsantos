@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mailto:jadson44.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadson44.santos@gmail.com)](mailto:jadson44.santos@gmail.com)  
 
 🤓 Estagiário na [@unisec](https://github.com/unisec/) <br>
-🇧🇷 Nascido em BA/Serrinha, Brail <br>
+🇧🇷 Nascido em BA/Serrinha, Brasil <br>
 🇧🇷 Mora em Florianópolis, Santa Catarina
 
 ## Heeey Ninja, tudo bem ? 👋 
