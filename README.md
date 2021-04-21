@@ -20,7 +20,7 @@ Recentemente desenvolvi algumas coisas, tais como:
 - [Controlid](https://github.com/jadson179/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`). (2021)
 
 
-Resumão do conhecimento (ferramentas,linguagens,ambientes,design patterns e algumas granduações):
+Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patterns e algumas granduações):
 
 * 🎓 Graduação em Analise e Desenvolvimento de Sistemas
 * 🎓 Graduação em Gestão da Tecnologia da informação
