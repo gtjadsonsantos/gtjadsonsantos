@@ -17,7 +17,7 @@ Comecei a estudar desenvolvimento no primeiro semestre de TGTI em fevereiro/2018
 Recentemente desenvolvi algumas coisas, tais como:
 
 - [Painel](https://github.com/jadson179/PAINEL) para gerenciamento de salas para empreendimentos comerciais 🤓. Envolveu o uso node, jwt, knex e react. (2020)
-- [Portfolio](https://github.com/jadson179/PORTFOLIO) Site estático para apresentação dos trabalho  🤓. Toda a gestão de conteúdo desse site é montado a partir de arquivo json. (2020)
+- [Portfolio](https://github.com/jadson179/PORTFOLIO) Site estático para apresentação dos trabalhos  🤓. Toda a gestão de conteúdo desse site é montado a partir de arquivo json. (2020)
 - [Controlid](https://github.com/jadson179/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`). (2021)
 
 
