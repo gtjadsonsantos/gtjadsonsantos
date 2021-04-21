@@ -14,9 +14,13 @@ Meu nome é Jadson, sou Desenvolvedor Fullstack há quase 1 ano, dedico parte do
 
 Comecei a estudar desenvolvimento no primeiro semestre de TGTI em fevereiro/2018, consegui meu primeiro estágio no segundo ano de curso em 2019 como **estagiário de tecnologia** com foco em suporte. No ano seguinte outro estágio como **estagiário de tecnologia**, porém sem focó principal e sim trabalhar com todas as camadas da tecnologia, é meu trabalho atual.
 
-Recentemente desenvolvi uma aplicação para gerenciamento de salas para empreendimentos comerciais 🤓. A mesma se encontra em [PAINEL](https://github.com/jadson179/PAINEL) .Envolveu o uso node, jwt, knex e react.
+Recentemente desenvolvi algumas coisas, tais como:
+
+- [PAINEL](https://github.com/jadson179/PAINEL) para gerenciamento de salas para empreendimentos comerciais 🤓. Envolveu o uso node, jwt, knex e react.
+- [Controlid](https://github.com/jadson179/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`)
 
 
+Resumão do conhecimento (ferramentas,linguagens,ambientes,design patterns e algumas granduações):
 
 * 🎓 Graduação em Analise e Desenvolvimento de Sistemas
 * 🎓 Graduação em Gestão da Tecnologia da informação
