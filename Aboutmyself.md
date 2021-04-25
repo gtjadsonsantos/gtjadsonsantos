@@ -77,6 +77,7 @@ Inglês - Técnico
 
 - Analista de Gerenciamento de Projetos de TI
 - Analista de Infraestrutura de TI
+- Scrum Foundation Professional Certificate SFPC
 
 **ALURA**
 
