@@ -20,6 +20,7 @@ Recentemente desenvolvi algumas coisas, tais como:
 - [Portfolio](https://github.com/jadson179/PORTFOLIO) Site estático para apresentação dos trabalhos  🤓. Toda a gestão de conteúdo desse site é montado a partir de arquivo json. (2020)
 - [Controlid](https://github.com/jadson179/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`). (2021)
 - [Vapix](https://github.com/jadson179/vapix) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas. (2021)
+- [Consul](https://github.com/jadson179/consul) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível registrar,deregistrar serviços  e criar,atualizar e deletar kv no [consul](https://www.consul.io/). (2021)
 
 
 Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patterns e algumas granduações):
