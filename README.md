@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-jadson179-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/jadson179)](http://github.com/jadson179) 
 [![Linkedin Badge](https://img.shields.io/badge/-Jadson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jadson-santos-a9aa9b145/)](https://www.linkedin.com/in/jadson-santos-a9aa9b145/) 
-[![Gmail Badge](https://img.shields.io/badge/-mailto:jadson44.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadson44.santos@gmail.com)](mailto:jadson44.santos@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-mailto:jadson44.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadson44.santos@gmail.com)](mailto:jadson44.santos@gmail.com)
 [![Curriculo Badge](https://img.shields.io/badge/-Currículo-6633cc?style=flat-square&logo=Curriculo&logoColor=white&link=https://docs.google.com/document/d/1FxB5csOxfCJO-oMLux4IDdwPZdy83Exh7bovWIX8C48/edit?usp=sharing)](https://docs.google.com/document/d/1FxB5csOxfCJO-oMLux4IDdwPZdy83Exh7bovWIX8C48/edit?usp=sharing)  
 
 
