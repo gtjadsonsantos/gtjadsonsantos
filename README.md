@@ -61,6 +61,6 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
 * 🛡 MVC
 * 🛠 Orientado a Objetos e funcional
 
-#
+##
 
 <p align="center"> Todo o dia é dia se melhorar um pouco mais ✨ </p>
