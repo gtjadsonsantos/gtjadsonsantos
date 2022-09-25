@@ -63,4 +63,4 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
 
 ##
 
-<p align="center"> Todo o dia é dia de se melhorar um pouco mais ✨ </p>
+<p align="center"> Todo dia é dia de se melhorar um pouco mais ✨ </p>
