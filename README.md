@@ -46,6 +46,9 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
   * 🦖 Deno
   * 🦎 Node
   * 🐳 Docker
+  * Nomad
+  * Vault
+  * Consul 
   * 🪟 Windows
   * 🍎 Mac OS
 * Armazenamentos
@@ -55,6 +58,9 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
   * 💙 SSH
   * 💙 SCP
   * 💙 Ansible
+* Redes
+  * Wireguard
+  * Headscale  
 * 🌟 React, ReactNative, Styled Components,Expo,Knex,Express
 * ⚙️ Esphome para construção de soluções que funcionem em micro controladores **ESP8266**/**ESP32**
 * 🔩 Home-assistant como solução para automação residencial/comercial
