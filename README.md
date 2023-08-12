@@ -54,11 +54,13 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
   * 🍎 Mac OS
 * Armazenamentos
   * 💙 Mysql
+  * 💙 Postgres
 * Ferramentas
   * 💙 Git
   * 💙 SSH
   * 💙 SCP
   * 💙 Ansible
+  * 💙 Terraform
 * Redes
   * Wireguard
   * Headscale  
