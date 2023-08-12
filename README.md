@@ -41,6 +41,7 @@ Resumão do conhecimento técnico (ferramentas,linguagens,ambientes,design patte
 * 🖥 Virtualização
     * Virtual Box
     * ESXi
+    * Vagrant
 * Ambientes
   * 🥷🏽 Linux
   * 🦖 Deno
