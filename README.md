@@ -1,3 +1,5 @@
+![Hoje é um belo dia para fazer a diferença, não acha?](linkedin-capa/capa@2x.png)
+
 # Jadson Santos
 
 [![Github Badge](https://img.shields.io/badge/-gtjadsonsantos-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/gtjadsonsantos)](http://github.com/gtjadsonsantos) 
