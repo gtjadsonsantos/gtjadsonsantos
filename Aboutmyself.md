@@ -1,17 +1,15 @@
 # Jadson Santos
 
-Almirante Carlos da Silveira Carneiro, 394
+Desenvolvedor de Software & DevOps · Florianópolis, SC
 
-Florianópolis, SC, 88025-350
-
-[![Github Badge](https://img.shields.io/badge/-jadson179-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/jadson179)](http://github.com/jadson179) 
-[![Linkedin Badge](https://img.shields.io/badge/-Jadson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jadson-santos-a9aa9b145/)](https://www.linkedin.com/in/jadson-santos-a9aa9b145/) 
+[![Github Badge](https://img.shields.io/badge/-gtjadsonsantos-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/gtjadsonsantos)](http://github.com/gtjadsonsantos) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jadson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtjadsonsantos/)](https://www.linkedin.com/in/gtjadsonsantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-mailto:jadson44.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadson44.santos@gmail.com)](mailto:jadson44.santos@gmail.com)
 
 
-## Objetivo
-	
-    Desejo atuar como desenvolvedor fullstack no mercado de trabalho, minha expêriancia com desenvolvimento vem atrávez de projetos facultativos, empresas e projetos pessoais. A todo momento estou buscando melhorar minhas habilidades técnicas que o mercado vem exigindo para estar apto a atuar com grandes responsabilidades e crescer na profissão.
+## Resumo
+
+Desenvolvedor de software e DevOps na Unisec, na linha de frente do [Portal](https://portal.unicontrol.me) e do [Studio](https://studio.unicontrol.me) Unicontrol. Atuo de ponta a ponta em produtos de IoT, automação e segurança: backend, workers distribuídos em edge e cloud, SDK de integrações, dashboard web, app mobile e infraestrutura. Contribuo com projetos open source como Home Assistant e ESPHome, incluindo o suporte a Matter.
 
 ## Competências
 
@@ -23,9 +21,23 @@ Florianópolis, SC, 88025-350
 
 ## Experiências
 
-`MÊS DE JULHO - 2019`
+`DEZEMBRO 2021 - ATUAL`
 
-UNISEC LTDA - Estagiário de tecnologia da informação (Atual )
+UNISEC LTDA - Desenvolvedor de Software e DevOps
+
+Na linha de frente do Portal e do Studio Unicontrol.
+
+- Portal Unicontrol: plataforma IoT/smart home em nuvem que combina automação e segurança. API em Deno e Hono, workers distribuídos em edge e cloud, SDK de integrações (Tuya, KNX, Zigbee, controle de acesso e outras), dashboard em React e app em Flutter
+- Studio Unicontrol: ferramenta para configurar de forma visual os módulos de automação
+- Desenvolvimento de microsserviços e integrações
+- Desenvolvimento de sistemas embarcados (ESPHome, Matter)
+- Infraestrutura com Docker, Nomad, Consul, Vault e Terraform, com CI/CD
+- Manutenção de sistemas e observabilidade
+- Internet das Coisas (IoT)
+
+`JULHO 2019 - DEZEMBRO 2021`
+
+UNISEC LTDA - Estagiário de tecnologia da informação (suporte/desenvolvimento)
 
 - Atuação como suporte nv 1 e nv 2 (Jira e Movidesk)
 - Atualização da base conhecimento
@@ -52,9 +64,9 @@ Beco-Castelo Construções e Incorporações de Imoveis LTDA - Estagiário de te
 
 ## Formações
 
-`INICIADO EM  AGOSTO 2019`
+`2019 - 2021`
 
-SENAC, FLORIANÓPOLIS - Analise e Desenvolvimento de Sistemas - Cursando
+SENAC, FLORIANÓPOLIS - Análise e Desenvolvimento de Sistemas - Concluído
 
 `MÊS DE AGOSTO 2019`
 
@@ -76,7 +88,15 @@ Inglês - Técnico
 
 - Analista de Gerenciamento de Projetos de TI
 - Analista de Infraestrutura de TI
-- Scrum Foundation Professional Certificate SFPC
+
+**CERTIPROF**
+
+- Scrum Foundation Professional Certificate SFPC (2021)
+
+**ROCKETSEAT**
+
+- Do While 2020
+- Semana OmniStack 11 (2020)
 
 **ALURA**
 
@@ -94,21 +114,48 @@ Inglês - Técnico
 - REDES WIRELESS - COMEÇANDO
 - REDES DE COMPUTADORES - COMEÇANDO
 
+## Contribuições open source
+
+**Home Assistant**
+
+- [core#92964](https://github.com/home-assistant/core/pull/92964): parâmetro `requires_auth` na integração Prometheus, com a [documentação](https://github.com/home-assistant/home-assistant.io/pull/27367) correspondente. (2023)
+- [brands#3873](https://github.com/home-assistant/brands/pull/3873): identidade visual da integração Unicontrol. (2022)
+- Publicação das integrações [Controlid](https://github.com/hacs/default/pull/830), [Vapix](https://github.com/hacs/default/pull/877) e [Consul](https://github.com/hacs/default/pull/962) no HACS. (2021)
+
+**ESPHome**
+
+- [esphome#18499](https://github.com/esphome/esphome/pull/18499): novo componente Matter sobre Wi-Fi e Ethernet. (2026, em revisão)
+- [esphome#3811](https://github.com/esphome/esphome/pull/3811): plataforma `ethernet_info` para `text_sensor`, com a [documentação](https://github.com/esphome/esphome.io/pull/2300) correspondente. (2022)
+
 ## CASES DE PROJETOS
 
-
-- [Painel](https://github.com/jadson179/PAINEL) para gerenciamento de salas para empreendimentos comerciais. Envolveu o uso node, jwt, knex e react. (2020)
-- [Portfolio](https://github.com/jadson179/PORTFOLIO) Site estático para apresentação dos trabalhos . Toda a gestão de conteúdo desse site é montado a partir de arquivo json. (2020)
-- [Controlid](https://github.com/jadson179/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`). (2021)
-- [Vapix](https://github.com/jadson179/vapix) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas. (2021)
+- [Portal Unicontrol](https://portal.unicontrol.me): plataforma IoT/smart home em nuvem que combina automação e segurança. (2025 - atual)
+- [Studio Unicontrol](https://studio.unicontrol.me): ferramenta para configurar de forma visual os módulos de automação da Unicontrol.
+- [ESPHome Matter](https://github.com/unisec/esphome-matter): componente externo que transforma um ESP32 em dispositivo Matter nativo, compatível com Apple Home, Google Home, Alexa, Home Assistant e SmartThings. (2026)
+- Recobook: sistema universal de recomendação de locais (TCC). (2021)
+- [Painel](https://github.com/gtjadsonsantos/PAINEL) para gerenciamento de salas para empreendimentos comerciais. Envolveu o uso node, jwt, knex e react. (2020)
+- [Portfolio](https://github.com/gtjadsonsantos/PORTFOLIO) Site estático para apresentação dos trabalhos . Toda a gestão de conteúdo desse site é montado a partir de arquivo json. (2020)
+- [Controlid](https://github.com/gtjadsonsantos/controlid) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas e obter o status atual da porta(`Aberta`/`Fechada`). (2021)
+- [Vapix](https://github.com/gtjadsonsantos/vapix) custom component para o @home-Assistant [core](https://github.com/home-assistant/core). Com ela é possível abrir portas. (2021)
 
 
 ## Informações Adicionais 
+
+#### Linguagens
+
+- TypeScript
+- JavaScript
+- Python
+- Dart
+- Bash
+- SQL
+- HCL
 
 #### Documentação
 
 - Markdown 
 - UML
+- OpenAPI (Scalar)
 
 #### SO
 
@@ -124,8 +171,13 @@ Inglês - Técnico
 
 #### Devops
 
-- Docker
+- Docker (buildx multi-arch)
 - Docker-Compose
+- HashiCorp Nomad, Consul e Vault
+- Terraform
+- Ansible
+- CircleCI
+- GitHub Actions
 - Telnet
 - Nmap
 - ssh
@@ -134,7 +186,19 @@ Inglês - Técnico
 
 - Dns
 - ipv4
-- Protocolos (HTTP, HTTPS, SSH, VNC, RTSP)
+- Protocolos (HTTP, HTTPS, SSH, VNC, RTSP, MQTT)
+- WireGuard
+- Headscale
+- FreeSWITCH
+
+#### IoT e Automação
+
+- MQTT
+- Home Assistant
+- ESPHome (ESP8266/ESP32)
+- Matter
+- Zigbee2MQTT
+- KNX
 
 #### Front-End
 
@@ -142,24 +206,49 @@ Inglês - Técnico
 - CSS-3
 - JavaScript 
 - React 
+- Vite
+- Tailwind CSS
+- Zustand
 - React-Native
 - Expo
 - Material Design
 - Font Awesome
 
+#### Mobile
+
+- Flutter (iOS/Android)
+- Fastlane
+
 #### Back-End
 
-- Nodejs
 - Deno
+- Hono
+- Nodejs
+- Drizzle ORM
 - knex
 - Sequelize ORM
 - JWT
+- OIDC/OAuth2 (Logto)
 - REST API (GET, PUT, DELETE, POST)
 - Express
 
 #### Database 
 
-- MySQL
+- PostgreSQL
 - SQLite
-- PostgresSQL
+- InfluxDB
+- MySQL
+- Directus (headless CMS)
 - SQL
+
+#### IA aplicada
+
+- Servidores MCP
+- Agentes com LLM
+
+#### Arquitetura
+
+- Clean Architecture
+- Sistemas distribuídos (edge e cloud)
+- Multitenancy
+- Monorepos
