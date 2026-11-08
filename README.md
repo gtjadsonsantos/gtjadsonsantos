@@ -24,6 +24,26 @@ Meus primeiros projetos quando estava iniciando na jornada:
 - [Controlid 🔐](https://github.com/gtjadsonsantos/controlid) custom component para o [Home Assistant](https://github.com/home-assistant/core) que abre portas e informa o status atual da porta (`Aberta`/`Fechada`). (2021)
 - [Vapix 🔐](https://github.com/gtjadsonsantos/vapix) custom component para o [Home Assistant](https://github.com/home-assistant/core) que abre portas. (2021)
 
+## Contribuições open source
+
+Boa parte do que construo nasce em cima de projetos abertos, então procuro devolver para a comunidade.
+
+### 🏠 Home Assistant · [ver todos os PRs](https://github.com/pulls?q=is%3Apr+author%3Agtjadsonsantos+org%3Ahome-assistant)
+
+- [core#92964](https://github.com/home-assistant/core/pull/92964): parâmetro `requires_auth` na integração Prometheus, com a [documentação](https://github.com/home-assistant/home-assistant.io/pull/27367) correspondente. (2023, merged)
+- [brands#3873](https://github.com/home-assistant/brands/pull/3873): identidade visual da integração Unicontrol. (2022, merged)
+- Publicação das minhas integrações [Controlid](https://github.com/hacs/default/pull/830), [Vapix](https://github.com/hacs/default/pull/877) e [Consul](https://github.com/hacs/default/pull/962) no HACS, com os brands ([controlid](https://github.com/home-assistant/brands/pull/2268), [vapix](https://github.com/home-assistant/brands/pull/2346), [consul](https://github.com/home-assistant/brands/pull/2609)) e as [wheels](https://github.com/home-assistant/wheels-custom-integrations/pull/426) no Home Assistant. (2021, merged)
+
+### ⚙️ ESPHome · [ver todos os PRs](https://github.com/pulls?q=is%3Apr+author%3Agtjadsonsantos+org%3Aesphome)
+
+- [esphome#18499](https://github.com/esphome/esphome/pull/18499): novo componente **Matter** sobre Wi-Fi e Ethernet. (2026, em revisão)
+- [esphome#3811](https://github.com/esphome/esphome/pull/3811): nova plataforma `ethernet_info` para `text_sensor`, com a [documentação](https://github.com/esphome/esphome.io/pull/2300) correspondente. (2022, merged)
+- [unisec/esphome-matter](https://github.com/unisec/esphome-matter): componente externo que transforma um ESP32 em dispositivo **Matter** nativo e expõe automaticamente as entidades do ESPHome para Apple Home, Google Home, Alexa, Home Assistant e SmartThings. Funciona em modo bridge ou composed, sobre Wi-Fi ou Ethernet, com comissionamento via BLE.
+
+### 🌍 Outros projetos
+
+[Zigbee Herdsman Converters](https://github.com/Koenkk/zigbee-herdsman-converters/pull/6157) · [SmartIR](https://github.com/smartHomeHub/SmartIR/pulls?q=is%3Apr+author%3Agtjadsonsantos) · [Casdoor](https://github.com/casdoor/casdoor/pull/1837) · [Zabbix Community Templates](https://github.com/zabbix/community-templates/pull/150) · [Scheduler Card](https://github.com/nielsfaber/scheduler-card/pull/620)
+
 ## Resumão do conhecimento técnico
 
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas · Gestão da Tecnologia da Informação
